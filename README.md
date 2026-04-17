@@ -1,6 +1,6 @@
-# 御行智飞 · 无人机具身智能体
+# 智飞 · 无人机具身智能体
 
-**御行智飞** (Yuhang Intelligent Flight) 是一款专注于无人机具身智能体（Embodied AI for Drones）的创新产品。本项目是其官方产品宣传页，展示了其核心技术优势与应用场景。
+**智飞** (Intelligent Flight) 是一款专注于无人机具身智能体（Embodied AI for Drones）的创新产品。本项目是其官方产品宣传页，展示了其核心技术优势与应用场景。
 
 ## 🚀 项目亮点
 
